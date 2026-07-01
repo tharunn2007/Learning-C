@@ -15,4 +15,7 @@ printf("char : %c\n",eg4);
 // %i/%d for integer
 // %f for float or double
 // %c for char
+return 0;
+
+//Strings ARE NOT there in c unlike other languages - will be learnt later
 }
