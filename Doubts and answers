@@ -1,0 +1,11 @@
+Difference between int main() and int main(void) ?
+
+int main(void) - used when taking in strictly no terminal arguements - u will get to know
+int main() - used when taking terminal arguements
+
+terminal arguements are same as function arguements - 
+(analogy to arguements and parameters in python where the values are given at the time of EXECUTING the code)
+./execute val1 val2
+
+whereas scanf are the input that are given at THE RUNTIME.
+
