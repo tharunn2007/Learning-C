@@ -33,7 +33,5 @@ int main(void){
    else{
        printf("Invalid!\n");
    }
-
-
     return 0;
 }
