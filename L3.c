@@ -27,7 +27,7 @@ int main(void){
        printf("Converted from C to F and is %fF",F);
    }
    else if(unit == 'F'){
-       float C = (num-32)*(5/9);
+       float C = (num-32)*(5.0/9.0);
         printf("Converted from F to C and is %fC",C);
    }
    else{
@@ -35,3 +35,4 @@ int main(void){
    }
     return 0;
 }
+
